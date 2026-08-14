@@ -1,0 +1,17 @@
+node_modules/
+site/
+__pycache__/
+.tmp-*
+*.pdf
+.env
+agent/.gaps.jsonl
+agent/.stats.json
+agent/.stats.jsonl
+agent/.authorship.json
+agent/.authorship.jsonl
+agent/.asklog.jsonl
+agent/.wework/
+.rag/
+.codebuddy/
+_pdf_extract.txt
+.DS_Store

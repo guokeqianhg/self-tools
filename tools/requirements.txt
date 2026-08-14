@@ -1,0 +1,5 @@
+pyyaml>=6.0
+
+# Web 端（可选，用于 mkdocs serve / build）：
+# mkdocs-material>=9.5
+# jieba>=0.42  # 中文搜索分词
